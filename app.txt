@@ -5,3 +5,6 @@ edit main branch...
 edit main branch...
 
 
+branch conflict test    
+git new test
+
