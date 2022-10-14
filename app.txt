@@ -1,2 +1,3 @@
-git test
+branch conflict test    
 git new test
+
