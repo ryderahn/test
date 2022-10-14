@@ -1,4 +1,4 @@
-git test
+git conflict test
 git new test
 
 edit main branch...
